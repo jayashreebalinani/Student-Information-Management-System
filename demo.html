@@ -25,7 +25,7 @@
   </table>
 
   <script>
-    // Function to fetch data and append it to the table
+ 
     function users() {
       fetch('http://localhost:3000/singin')
         .then(response => response.json())
@@ -34,14 +34,13 @@
 
           data.forEach(user => {
             const row = tableBody.insertRow();
-            // Add cells to the row
-            row.insertCell().textContent = user.userid;
+        row.insertCell().textContent = user.userid;
             row.insertCell().textContent = user.fullname;
             row.insertCell().textContent = user.password;
             row.insertCell().textContent = user.Domain;
-            row.insertCell().textContent = user.course || ""; // If course is not present in the data, display an empty string
+            row.insertCell().textContent = user.course || ""; 
             row.insertCell().textContent = user.department;
-            // Add any other cells based on your data structure
+           
           });
         })
         .catch(error => {
@@ -49,7 +48,7 @@
         });
     }
 
-    // Call the function to fetch data and append it to the table
+  
     users();
   </script>
 
