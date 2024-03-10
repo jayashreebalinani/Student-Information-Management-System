@@ -1,5 +1,4 @@
 
-
 function details()
 {
  var detail = document.getElementById("details")
