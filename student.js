@@ -9,8 +9,8 @@ function details()
    var data1 = data
   
    const user1 = data1.find(u => u.userid == user)
-   //? user.password : null;)
-   //detail.append(user1.Domain)
+   
+   
 
    var userid = document.createElement("label")
 userid.innerText = "Userid"
