@@ -1,7 +1,7 @@
 
  
 
-// // // //  function generateMenu() {
+//   function generateMenu() {
 
 // // // //     var sidebar = document.getElementById('sidebar');
 // // // //     var menuItems = ['Dashboard', 'Users', 'Settings']; // Add more menu items as needed
