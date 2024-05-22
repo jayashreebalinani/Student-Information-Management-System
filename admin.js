@@ -210,7 +210,6 @@
 //     });
 // }
 
-// // Call the function to fetch data and append it to the table
 
 function users() {
   var content = document.getElementById("content")
