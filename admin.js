@@ -3,7 +3,7 @@
 
 //   function generateMenu() {
 
-// // // //     var sidebar = document.getElementById('sidebar');
+//   var sidebar = document.getElementById('sidebar');
 // // // //     var menuItems = ['Dashboard', 'Users', 'Settings']; // Add more menu items as needed
 
 // // // //     for (var i = 0; i < menuItems.length; i++) {
