@@ -16,7 +16,7 @@
 
 
 
-// // // //   // Function to load content based on button click
+
 // // // //   function loadContent(menuItem) {
 // // // //     var contentDiv = document.getElementById('mainContent');
 // // // //     var buttons = document.getElementsByClassName('menu-item');
