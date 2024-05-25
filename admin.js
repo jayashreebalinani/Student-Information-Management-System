@@ -14,9 +14,7 @@
 // // // //         loadContent(this.textContent);
 // // // //       };
 
-// // // //       sidebar.append(button);
-// // // //     }
-// // // //   }
+
 
 // // // //   // Function to load content based on button click
 // // // //   function loadContent(menuItem) {
