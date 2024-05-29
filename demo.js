@@ -2,7 +2,7 @@
 // //   "name": "usha",
 // //   "class":2,
 // //   "gender":"female"
-  
+
 // // }
 
 // // //json-server --watch db.json
