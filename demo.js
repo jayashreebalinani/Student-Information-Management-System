@@ -48,10 +48,7 @@
 
 // // }
 
-// // function getdata(){
-// //   var input = document.getElementById("input").innerText
-// //   console.log(input)
-// // }
+
 
 
 // function post(){
