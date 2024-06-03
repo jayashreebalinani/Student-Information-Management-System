@@ -9,10 +9,7 @@
 // // fetch("http://localhost:3000/student/name")
 // //   .then(response => response.json())
 // //   .then(data => console.log(data));
-  
 // // }
-
-
 // // function post(){
 // //   fetch("http://localhost:3000/student", {
 // //       method: "POST",
