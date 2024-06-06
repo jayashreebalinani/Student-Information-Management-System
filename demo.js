@@ -78,7 +78,6 @@
 //     console.log(data1)
 //     var find = data1.filter(student => student.name == fullname)
 //     if(find.length > 0)
-//     {
 //       console.log(Object.entries(find))
 
 
