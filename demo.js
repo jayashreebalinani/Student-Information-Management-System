@@ -3,8 +3,6 @@
 // //   "class":2,
 // //   "gender":"female"
 // // }
-
-
 // // function fetch1(){
 // // fetch("http://localhost:3000/student/name")
 // //   .then(response => response.json())
