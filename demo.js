@@ -3,7 +3,7 @@
 // //   "class":2,
 // //   "gender":"female"
 // // }
-// // //json-server --watch db.json
+// // //json-server --watch db.jso
 
 // // function fetch1(){
 // // fetch("http://localhost:3000/student/name")
