@@ -25,7 +25,6 @@
 
 // }
 
-
 // // function put()
 // // {
 // //   fetch("http://localhost:3000/student/8", {
