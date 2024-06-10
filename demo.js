@@ -17,8 +17,6 @@
 // //       }
 // //   });
 // // }
-
-  
 //  function delete1()
 // {
 //   fetch("http://localhost:3000/student/6",{
