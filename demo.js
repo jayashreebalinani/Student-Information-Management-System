@@ -38,7 +38,6 @@
 
 // // }
 
-
 // function post(){
 //   let fullname=document.getElementById("fullname").value
 // let section =document.getElementById("class").value
