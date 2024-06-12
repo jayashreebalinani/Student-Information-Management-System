@@ -22,7 +22,6 @@
 //   fetch("http://localhost:3000/student/6",{
 //     method: "DELETE"
 // })
-
 // }
 
 // // function put()
