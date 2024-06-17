@@ -45,7 +45,6 @@
 // };
 //  console.log(formData)
 
-
 //  fetch("http://localhost:3000/student", {
 //         method: "POST",
 //         body: JSON.stringify(formData),
