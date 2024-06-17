@@ -72,8 +72,6 @@
 
 
 
-
-
 function admin()
 {
     var userid = document.getElementById("userid-admin").value
