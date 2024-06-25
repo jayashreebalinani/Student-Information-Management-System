@@ -7,7 +7,6 @@ function users() {
     .then(data => {
       const table = document.createElement('table');
       table.setAttribute('border', '1');
-
       // Create the table header
       const thead = document.createElement('thead');
       const headerRow = thead.insertRow();
