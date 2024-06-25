@@ -84,7 +84,6 @@ content.append(button)
 function add_admin()
 {
 
-
 var content = document.getElementById("content")
 content.innerText = ""
 
