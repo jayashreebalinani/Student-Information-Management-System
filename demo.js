@@ -74,7 +74,6 @@ function admin()
    // console.log(userid,password)
 
 
-
    fetch("http://localhost:3000/singin")
   .then(response => response.json())
   .then(data => {
