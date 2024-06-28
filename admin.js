@@ -159,4 +159,3 @@ button.onclick = function ad() {
 }
  
 }
-
