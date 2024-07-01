@@ -53,7 +53,6 @@
 //     });
 
 // }
-
 // function fetch1()
 // {
 //   var fullname = document.getElementById("fullname").value
