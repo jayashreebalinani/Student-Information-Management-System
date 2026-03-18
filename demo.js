@@ -146,7 +146,6 @@ function post()
     var userid = document.getElementById("userid-new").value
     var fullname = document.getElementById("fullname-new").value
     var password = document.getElementById("password-new").value
-    //var domain = document.getElementById("domain-new").value
     var course = document.getElementById("course-new").value
     var department = document.getElementById("department-new").value
 
